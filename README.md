@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @baaqerfarhat
-- 👀 I’m interested in Robotics and Programmming 
+- 👀 I’m interested in Robotics and AI Programmming 
 - 🌱 I’m currently learning Full Stack Developemnt and about microcontrollers. 
 - 💞️ I’m looking to collaborate on any robotics projects.
 - 📫 How to reach me: Baaqerfarhat@gmail.com
